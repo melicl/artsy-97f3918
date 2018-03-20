@@ -1,0 +1,19 @@
+---
+layout: page
+footer: false
+---
+<div class="index-sidebar">
+  <h1>Post Categories</h1>
+</div>
+
+<div class="index-main" style="padding-top:0px">
+  <article>
+    <p>We covered a lot of topics in the last few years, here's all of the tags we've applied to our posts.</p>
+    <ul>
+      {% for category in site.categories %}
+        {% capture category_url %}/category/{{ category | first }}{% endcapture %}
+        <a href="{{ category_url | relative_url }}" title="{{ category[1].size }} posts on {{ category | first }}">{{ category | first }}</a>,
+      {% endfor %}
+    </ul>
+    </article>
+</div>
