@@ -564,23 +564,6 @@ p code, li code {
   font-size: 1em;
 }
 
-/* line 9, ../_sass/custom/_styles.scss */
-article img.screenshot {
-  -moz-border-radius: 0.3em;
-  -webkit-border-radius: 0.3em;
-  border-radius: 0.3em;
-  -moz-box-shadow: rgba(0, 0, 0, 0.15) 0 1px 4px;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.15) 0 1px 4px;
-  box-shadow: rgba(0, 0, 0, 0.15) 0 1px 4px;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  border: #fff 0.5em solid;
-  -moz-box-shadow: rgba(0, 0, 0, 0.35) 0 3px 8px;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.35) 0 3px 8px;
-  box-shadow: rgba(0, 0, 0, 0.35) 0 3px 8px;
-}
-
 /* line 13, ../_sass/custom/_styles.scss */
 blockquote {
   font-style: italic;
@@ -588,9 +571,15 @@ blockquote {
 
 /* line 19, ../_sass/custom/_styles.scss */
 .entry-content p img {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+  margin-left: -32%;
+  max-width: 132%;
+  position: relative;
+  z-index: 1;
+}
+
+.entry-content p img.emoji {
+  margin: auto;
+  max-width: 100%;
 }
 
 /* line 43, ../_sass/screen.scss */
@@ -689,15 +678,6 @@ a[name]:before {
   margin-top: -121px;
   height: 121px;
   visibility: hidden;
-}
-
-/* line 129, ../_sass/screen.scss */
-img {
-  max-width: 100%;
-  margin: 20px 0;
-  position: relative;
-  z-index: 1;
-  top: -1px;
 }
 
 /* line 137, ../_sass/screen.scss */
