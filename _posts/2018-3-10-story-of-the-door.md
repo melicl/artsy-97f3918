@@ -43,7 +43,7 @@ of each week, and not only set aside occasions of pleasure, but
 even resisted the calls of business, that they might enjoy them
 uninterrupted.
 
-![Adeline Harris Sears Quilt]({{ "/images/26643850298_28aca1384e_o.jpg" | relative_url }})
+![Adeline Harris Sears Quilt]({{ "/images/40476914062_d85d7cdff6_o.jpg" | relative_url }})
 
 It chanced on one of these rambles that their way led them down a
 by-street in a busy quarter of London. The street was small and what
@@ -73,6 +73,8 @@ appeared to drive away these random visitors or to repair their ravages.
 Mr. Enfield and the lawyer were on the other side of the by-street; but
 when they came abreast of the entry, the former lifted up his cane and
 pointed.
+
+![Adeline Harris Sears Quilt]({{ "/images/40519309251_60fc13bd07_o.jpg" | relative_url }})
 
 "Did you ever remark that door?" he asked; and when his companion had
 replied in the affirmative. "It is connected in my mind," added he,

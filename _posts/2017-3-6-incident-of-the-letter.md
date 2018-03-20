@@ -47,6 +47,8 @@ him in this world. It is all at an end. And indeed he does not want my
 help; you do not know him as I do; he is safe, he is quite safe; mark my
 words, he will never more be heard of.”
 
+![Mayerle Eye Test Chart]({{ "/images/24144422747_ce26189f2e_b.jpg" | relative_url }})
+
 The lawyer listened gloomily; he did not like his friend’s feverish
 manner. “You seem pretty sure of him,” said he; “and for your sake, I
 hope you may be right. If it came to a trial, your name might appear.”
@@ -141,6 +143,8 @@ handwriting, would consider the step natural and obliging? The clerk,
 besides, was a man of counsel; he could scarce read so strange a
 document without dropping a remark; and by that remark Mr. Utterson
 might shape his future course.
+
+![Mayerle Eye Test Chart]({{ "/images/24144420577_ddd02c8a18_b.jpg" | relative_url }})
 
 “This is a sad business about Sir Danvers,” he said.
 

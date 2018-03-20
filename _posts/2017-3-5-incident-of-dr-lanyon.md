@@ -51,6 +51,8 @@ is more than he can bear.” And yet when Utterson remarked on his
 ill-looks, it was with an air of great firmness that Lanyon declared
 himself a doomed man.
 
+![Bell Tetrahedral Kites]({{ "/images/35286564016_060b27c189_o.jpg" | relative_url }})
+
 “I have had a shock,” he said, “and I shall never recover. It is a
 question of weeks. Well, life has been pleasant; I liked it; yes, sir,
 I used to like it. I sometimes think if we knew all, we should be more
@@ -98,6 +100,8 @@ cheerful and an honoured age; and now in a moment, friendship, and peace
 of mind, and the whole tenor of his life were wrecked. So great and
 unprepared a change pointed to madness; but in view of Lanyon’s manner
 and words, there must lie for it some deeper ground.
+
+![Bell Tetrahedral Kites]({{ "/images/34483663024_31c7b2aa87_b.jpg" | relative_url }})
 
 A week afterwards Dr. Lanyon took to his bed, and in something less than
 a fortnight he was dead. The night after the funeral, at which he had

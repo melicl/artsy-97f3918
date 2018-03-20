@@ -33,6 +33,8 @@ needn’t frown--an excellent fellow, and I always mean to see more of
 him; but a hide-bound pedant for all that; an ignorant, blatant pedant.
 I was never more disappointed in any man than Lanyon.”
 
+![Mayerle Eye Test Chart]({{ "/images/24144422747_ce26189f2e_b.jpg" | relative_url }})
+
 “You know I never approved of it,” pursued Utterson, ruthlessly
 disregarding the fresh topic.
 
@@ -66,6 +68,8 @@ will tell you one thing: the moment I choose, I can be rid of Mr. Hyde.
 I give you my hand upon that; and I thank you again and again; and I
 will just add one little word, Utterson, that I’m sure you’ll take in
 good part: this is a private matter, and I beg of you to let it sleep.”
+
+![Mayerle Eye Test Chart]({{ "/images/24144420577_ddd02c8a18_b.jpg" | relative_url }})
 
 Utterson reflected a little, looking in the fire.
 

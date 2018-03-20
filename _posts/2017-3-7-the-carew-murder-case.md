@@ -54,6 +54,8 @@ watch were found upon the victim: but no cards or papers, except a
 sealed and stamped envelope, which he had been probably carrying to the
 post, and which bore the name and address of Mr. Utterson.
 
+![Adeline Harris Sears Quilt]({{ "/images/40476914062_d85d7cdff6_o.jpg" | relative_url }})
+
 This was brought to the lawyer the next morning, before he was out of
 bed; and he had no sooner seen it and been told the circumstances, than
 he shot out a solemn lip. “I shall say nothing till I have seen the
@@ -118,6 +120,8 @@ that night very late, but he had gone away again in less than an hour;
 there was nothing strange in that; his habits were very irregular, and
 he was often absent; for instance, it was nearly two months since she
 had seen him till yesterday.
+
+![Adeline Harris Sears Quilt]({{ "/images/40519309251_60fc13bd07_o.jpg" | relative_url }})
 
 “Very well, then, we wish to see his rooms,” said the lawyer; and when
 the woman began to declare it was impossible, “I had better tell you

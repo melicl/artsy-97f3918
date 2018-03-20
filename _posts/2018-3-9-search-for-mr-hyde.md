@@ -58,6 +58,8 @@ other’s company.
 After a little rambling talk, the lawyer led up to the subject which so
 disagreeably preoccupied his mind.
 
+![Bell Tetrahedral Kites]({{ "/images/35286564016_060b27c189_o.jpg" | relative_url }})
+
 “I suppose, Lanyon,” said he, “you and I must be the two oldest friends
 that Henry Jekyll has?”
 
@@ -126,6 +128,8 @@ by-street of shops. In the morning before office hours, at noon when
 business was plenty, and time scarce, at night under the face of
 the fogged city moon, by all lights and at all hours of solitude or
 concourse, the lawyer was to be found on his chosen post.
+
+![Bell Tetrahedral Kites]({{ "/images/34483663024_31c7b2aa87_b.jpg" | relative_url }})
 
 “If he be Mr. Hyde,” he had thought, “I shall be Mr. Seek.”
 
